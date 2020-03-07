@@ -1,0 +1,4 @@
+-Added alts to all images displayed on page
+-Consolidated repetitively defined CSS selectors in style.css
+-Organized CSS selectors and properties to better follow the semantic structure of the HTML elements
+-Added id to allow "search engine optimization" link to function properly
